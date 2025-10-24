@@ -1,5 +1,6 @@
 # Exclude source files
 /src
+/lib
 
 # Exclude local configuration
 /.babelrc
