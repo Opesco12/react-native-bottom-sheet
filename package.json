@@ -1,18 +1,22 @@
 {
-   "name": "react-native-bottom-sheet",
+  "name": "@opesco12/react-native-bottom-sheet",
   "version": "1.0.0",
   "description": "A smooth gesture enabled bottom sheet for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-   "build": "tsc && echo '✅ Build completed successfully!'"
+    "build": "tsc && echo '✅ Build completed successfully!'"
   },
-  "keywords": ["bottom sheet", "modal", "reanimated"],
-    "repository": {
-   "type": "git",
-   "url": "https://github.com/opesco12/react-native-bottom-sheet-modal"
- },
+  "keywords": [
+    "bottom sheet",
+    "modal",
+    "reanimated"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opesco12/react-native-bottom-sheet-modal"
+  },
   "homepage": "https://github.com/opesco12/react-native-bottom-sheet-modal#readme",
   "bugs": {
     "url": "https://github.com/opesco12/react-native-bottom-sheet-modal/issues"
