@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "keywords": ["bottom sheet", "modal", "reanimated"],
     "repository": {
@@ -29,5 +30,5 @@
     "@types/react": "^19.2.2",
     "@types/react-native": "^0.73.0",
     "typescript": "^5.9.3"
-  },
+  }
 }
