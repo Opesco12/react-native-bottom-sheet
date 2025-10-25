@@ -7,7 +7,7 @@
 /webpack.config.js
 
 # Exclude node_modules
-/node_modules
+node_modules/
 
 # Exclude test files and directories
 /tests

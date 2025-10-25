@@ -6,7 +6,7 @@ A smooth, gesture-enabled bottom sheet modal for React Native with TypeScript su
 ![license](https://img.shields.io/npm/l/@opesco12/react-native-bottom-sheet)
 ![downloads](https://img.shields.io/npm/dm/@opesco12/react-native-bottom-sheet)
 
-https://raw.githubusercontent.com/Opesco12/react-native-bottom-sheet/refs/heads/main/assets/modal%20recording.mp4
+![Demo](https://raw.githubusercontent.com/Opesco12/react-native-bottom-sheet/refs/heads/main/assets/demo.gif)
 
 ## Installation
 
