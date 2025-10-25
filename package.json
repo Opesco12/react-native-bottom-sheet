@@ -1,6 +1,6 @@
 {
   "name": "@opesco12/react-native-bottom-sheet",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A smooth gesture enabled bottom sheet for React Native",
   "main": "lib/index.js",
   "module": "lib/index.js",
